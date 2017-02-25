@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Apocalypsis</title>
+    <link>https://gabdro.github.io/categories/python/index.xml</link>
+    <description>Recent content in Python on Apocalypsis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <atom:link href="https://gabdro.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://gabdro.github.io/posts/HelloWorld/</link>
+      <pubDate>Sat, 25 Feb 2017 12:18:18 +0900</pubDate>
+      
+      <guid>https://gabdro.github.io/posts/HelloWorld/</guid>
+      <description>
+
+&lt;script src=&#34;//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;h1 id=&#34;h1&#34;&gt;h1&lt;/h1&gt;
+
+&lt;h2 id=&#34;h2&#34;&gt;h2&lt;/h2&gt;
+
+&lt;h3 id=&#34;h3&#34;&gt;h3&lt;/h3&gt;
+
+&lt;h4 id=&#34;h4&#34;&gt;h4&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;コード埋め込み①&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python:test.py&#34;&gt;print(&amp;quot;Code Test&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;数式をmarkdownで表示するには🤔&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;&amp;lt;script src=&amp;quot;//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;quot; type=&amp;quot;text/javascript&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;数式を表示して見た💯&lt;br /&gt;
+$$ y_j = \sum_{i=1}^{n} w_{i,j} x_{i,j} $$&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

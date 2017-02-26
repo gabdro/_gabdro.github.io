@@ -6,8 +6,18 @@
     <description>Recent content on Apocalypsis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 25 Feb 2017 12:18:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2017 19:31:04 +0900</lastBuildDate>
     <atom:link href="https://gabdro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>unity 難しい</title>
+      <link>https://gabdro.github.io/posts/20170226/</link>
+      <pubDate>Sun, 26 Feb 2017 19:31:04 +0900</pubDate>
+      
+      <guid>https://gabdro.github.io/posts/20170226/</guid>
+      <description>&lt;p&gt;デモやその改変はできるけど一からオリジナルとか難し過ぎではないでしょうか?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HelloWorld</title>

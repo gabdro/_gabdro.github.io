@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Apocalypsis</title>
-    <link>https://gabdro.github.io/posts/index.xml</link>
-    <description>Recent content in Posts on Apocalypsis</description>
+    <title>Unity on Apocalypsis</title>
+    <link>https://gabdro.github.io/tags/unity/index.xml</link>
+    <description>Recent content in Unity on Apocalypsis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 26 Feb 2017 19:31:04 +0900</lastBuildDate>
-    <atom:link href="https://gabdro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>unity 難しい</title>
-      <link>https://gabdro.github.io/posts/20170226/</link>
-      <pubDate>Sun, 26 Feb 2017 19:31:04 +0900</pubDate>
-      
-      <guid>https://gabdro.github.io/posts/20170226/</guid>
-      <description>&lt;p&gt;デモやその改変はできるけど一からオリジナルとか難し過ぎではないでしょうか?&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://gabdro.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HelloWorld</title>

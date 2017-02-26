@@ -9,6 +9,27 @@
     <atom:link href="https://gabdro.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>unity 1日目</title>
+      <link>https://gabdro.github.io/posts/20170226/</link>
+      <pubDate>Sun, 26 Feb 2017 19:31:04 +0900</pubDate>
+      
+      <guid>https://gabdro.github.io/posts/20170226/</guid>
+      <description>
+
+&lt;h3 id=&#34;やった&#34;&gt;やった&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/unity3d-jp/FirstTutorial/wiki&#34;&gt;玉転がしゲーム -はじめのUnity&lt;/a&gt;&lt;br /&gt;
+3Dゲームのチュートリアル.最低限の画面の説明や基礎がわかった気になってる.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://gabdro.github.io/images/ss1.png&#34; alt=&#34;UnityGame1&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;p&gt;デモやその改変はできるけど一からオリジナルとか難し過ぎではないでしょうか?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>HelloWorld</title>
       <link>https://gabdro.github.io/posts/HelloWorld/</link>
       <pubDate>Sat, 25 Feb 2017 12:18:18 +0900</pubDate>
